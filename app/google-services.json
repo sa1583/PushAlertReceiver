@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227122094457",
+    "project_id": "pushalertreceiver-10217",
+    "storage_bucket": "pushalertreceiver-10217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227122094457:android:c111b425c3137c41d0cfa8",
+        "android_client_info": {
+          "package_name": "fastcampus.aop.part2.pushalertreceiver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227122094457-c0iikadaaise592krfafcak9oj6kf0ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArR3Jbi3qcvGqsX9wB_8vs0BNbP18jtIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227122094457-c0iikadaaise592krfafcak9oj6kf0ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

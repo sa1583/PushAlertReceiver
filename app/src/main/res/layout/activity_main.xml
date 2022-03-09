@@ -40,6 +40,7 @@
         android:layout_marginStart="4dp"
         android:layout_marginTop="12dp"
         android:text="Loading..."
+        android:textIsSelectable="true"
         android:textSize="16sp"
         tools:ignore="HardcodedText" />
 
